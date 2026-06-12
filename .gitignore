@@ -1,0 +1,13 @@
+# Python artifacts
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Runtime files
+*.db
+uploads/
+*.tmp
+.DS_Store
